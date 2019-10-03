@@ -10,6 +10,7 @@ def is_prime(number_to_check):
 
 def reverse_string(string_to_be_reversed):
 	# Add code here
+        return string_to_be_reversed[::-1]
 	return #reversed_string
 
 
