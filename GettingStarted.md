@@ -24,7 +24,7 @@ Finally, there’s the link to the repository URL. If you want to clone this pro
 Now let’s look at the __commit__ history, by clicking commits. There you see the commits in reverse chronological order. On the left, you see the commit short description, the author’s username, and when the commit was made. On the right, the short version of the commit hash, and a link to the commit.
 Click the commit hash, so you can see the changes it contains. In this example, we see a side-by-side diff of the project’s `_layouts/blog.html`. You can see on the left what was removed from the previous version, and on the right what was added to this version. Above each commit, on the lefthand side, you see a short summary of the changes, which shows both the total changes (in this case 1) and a visual representation. Now here’s some fun.
 
-![github-commit-changes-inline-comment](images/histroy_commit.png)
+![github-commit-changes-inline-comment](images/history_commit.png)
 
 Mouse over either the left or right sides. Notice a blue plus icon appears? If you click on it, you can comment on the code at that point in time. This is an excellent feature, as it makes GitHub a truly collaborative coding experience. One last thing, want to comment on the commit as a whole? There’s a comment box at the bottom of every commit. Click through the other tabs, and see what you find in each.
 
