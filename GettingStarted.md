@@ -46,7 +46,7 @@ You’ll now be taken to the quick setup page. This page gives you a host of pos
 
 Doing so won’t display any output. Now copy the second line and paste it into your terminal. This will push our changes to GitHub. You’ll see output, something like that shown in the screenshot below. Now go back to GitHub in your browser and refresh the page. You’ll see your `README.md` and other files, and the contents of the README.md rendered at the bottom of the page.
 
-![github-post-first-push]()
+![github-post-first-push](images/first_commit.png)
 
 
 Now, Since you are __familiar with How to create project and repository__ learn more about [push and pull requests](https://guides.github.com/activities/hello-world/)
